@@ -19,12 +19,12 @@
 Software Engineer with 3+ years of experience building scalable backend services and distributed systems.
 
 - 🔭 &nbsp; Working on: **[TaskQueueX](https://github.com/Kotha-Nikhil/taskqueueX)** - distributed async job platform & **[Shortify](https://github.com/Kotha-Nikhil/shortify)** - scalable URL shortener with Redis caching and analytics
-- 💼 &nbsp; Currently: Software Engineer at **Bright Mind Enrichment** — shipping React Native features for a nonprofit app serving 1,000+ users across 10+ U.S. states
+- 💼 &nbsp; Currently: Software Engineer at **Bright Mind Enrichment** - shipping React Native features for a nonprofit app serving 1,000+ users across 10+ U.S. states
 - ⚡ &nbsp; Delivered: 45% latency reduction, 98% CI/CD success rate, and 99.9% availability in production
 - 🤝 &nbsp; Collaborate on: Scalable backend systems, distributed architecture, Java/Spring Boot, or Rust services
 - 💬 &nbsp; Ask me about: Java, Rust, gRPC, Redis, PostgreSQL, AWS, or system design
 - 🎓 &nbsp; MS in Information Systems - Northeastern University
-- 😄 &nbsp; Fun fact: I engineered memory-safe concurrent Rust pipelines that eliminated data races — because crashes are not a feature
+- 😄 &nbsp; Fun fact: I engineered memory-safe concurrent Rust pipelines that eliminated data races - because crashes are not a feature
 
 ---
 
