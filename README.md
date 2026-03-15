@@ -18,13 +18,13 @@
 
 Software Engineer with 3+ years of experience building scalable backend services and distributed systems.
 
-- 🔭 &nbsp; Working on: **[TaskQueueX](https://github.com/Kotha-Nikhil/taskqueueX)** - distributed async job platform & **[Shortify](https://github.com/Kotha-Nikhil/shortify)** - scalable URL shortener with Redis caching and analytics
-- 💼 &nbsp; Currently: Software Engineer at **Bright Mind Enrichment** - shipping React Native features for a nonprofit app serving 1,000+ users across 10+ U.S. states
+- 🔭 &nbsp; Working on: **[ATLAS](https://github.com/Kotha-Nikhil/ATLAS)** — real-time ED command center with FHIR R4, HL7 v2, SMART on FHIR & AI triage · **[TaskQueueX](https://github.com/Kotha-Nikhil/taskqueueX)** — distributed async job platform · **[Shortify](https://github.com/Kotha-Nikhil/shortify)** — scalable URL shortener
+- 💼 &nbsp; Currently: Software Engineer at **Bright Mind Enrichment** — shipping React Native features for a nonprofit app serving 1,000+ users across 10+ U.S. states
 - ⚡ &nbsp; Delivered: 45% latency reduction, 98% CI/CD success rate, and 99.9% availability in production
 - 🤝 &nbsp; Collaborate on: Scalable backend systems, distributed architecture, Java/Spring Boot, or Rust services
 - 💬 &nbsp; Ask me about: Java, Rust, gRPC, Redis, PostgreSQL, AWS, or system design
-- 🎓 &nbsp; MS in Information Systems - Northeastern University
-- 😄 &nbsp; Fun fact: I engineered memory-safe concurrent Rust pipelines that eliminated data races - because crashes are not a feature
+- 🎓 &nbsp; MS in Information Systems — Northeastern University
+- 😄 &nbsp; Fun fact: I engineered memory-safe concurrent Rust pipelines that eliminated data races — because crashes are not a feature
 
 ---
 
@@ -72,6 +72,16 @@ Software Engineer with 3+ years of experience building scalable backend services
 ![Datadog](https://img.shields.io/badge/Datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+## 🏗️ Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| 🏥 **[ATLAS](https://github.com/Kotha-Nikhil/ATLAS)** | Real-time Emergency Department command center with HL7 v2 ADT ingest, FHIR R4 API, SMART on FHIR sandbox, AI-assisted triage, HIPAA-conscious RBAC, and live ED analytics dashboard | Rust/Axum · React 18/TS · PostgreSQL · Python · Docker · Fly.io |
+| ⚙️ **[TaskQueueX](https://github.com/Kotha-Nikhil/taskqueueX)** | Distributed async job platform generating 50K-row CSV reports in under 5s, 99% reliability with exponential backoff DLQ, optimistic locking, and Micrometer observability | Java 21 · Spring Boot · PostgreSQL · Redis · Docker |
+| 🔗 **[Shortify](https://github.com/Kotha-Nikhil/shortify)** | Scalable URL shortener with O(1) Redis-cached redirects, click analytics, sliding-window rate limiting, and Flyway schema versioning | Java · Spring Boot · Redis · PostgreSQL · Docker |
 
 ---
 
