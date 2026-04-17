@@ -16,13 +16,13 @@
 
 ## 🚀 About Me
 
-Software Engineer with 3+ years of experience building scalable backend services and distributed systems.
+Software/AI Engineer with 4+ years building production AI agents and scalable backends.
 
-- 🔭 &nbsp; Working on: **[ATLAS](https://github.com/Kotha-Nikhil/ATLAS)** — real-time ED command center with FHIR R4, HL7 v2, SMART on FHIR & AI triage · **[TaskQueueX](https://github.com/Kotha-Nikhil/taskqueueX)** — distributed async job platform · **[Shortify](https://github.com/Kotha-Nikhil/shortify)** — scalable URL shortener
-- 💼 &nbsp; Currently: Software Engineer at **Bright Mind Enrichment** — shipping React Native features for a nonprofit app serving 1,000+ users across 10+ U.S. states
-- ⚡ &nbsp; Delivered: 45% latency reduction, 98% CI/CD success rate, and 99.9% availability in production
-- 🤝 &nbsp; Collaborate on: Scalable backend systems, distributed architecture, Java/Spring Boot, or Rust services
-- 💬 &nbsp; Ask me about: Java, Rust, gRPC, Redis, PostgreSQL, AWS, or system design
+- 🔭 &nbsp; Working on: **[AI Outreach Agents](https://github.com/Kotha-Nikhil/ai-outreach-agents)** — multi-agent B2B outreach platform (Next.js 16 + FastAPI + Gemini + LangChain RAG) · **[ATLAS](https://github.com/Kotha-Nikhil/ATLAS)** — real-time ED command center with FHIR R4, HL7 v2, SMART on FHIR & AI triage · **[TaskQueueX](https://github.com/Kotha-Nikhil/taskqueueX)** — distributed async job platform · **[Shortify](https://github.com/Kotha-Nikhil/shortify)** — scalable URL shortener
+- 💼 &nbsp; Currently: AI Engineer / Software Engineer at **Genpact** (Remote, Boston MA) — shipping AI agents and GTM pipelines across Azure + AWS: LangChain/LangGraph RAG agents, real-time voice/email bots, and 250K+ visitor-event/day behavioral pipelines
+- ⚡ &nbsp; Delivered: 25% sales-conversion lift via LangChain + LangGraph agents · 35% engagement gain on voice/email/text interfaces · 99.9% uptime on 10K+ email batches · 45% latency drop & 98% CI/CD success on Rust/gRPC services
+- 🤝 &nbsp; Collaborate on: Multi-agent AI systems, RAG pipelines, scalable backends, distributed architecture, Java/Spring Boot, or Rust services
+- 💬 &nbsp; Ask me about: LangChain, LangGraph, RAG, LLM fine-tuning (LoRA, DAPT), Azure OpenAI, Bedrock, vLLM, Milvus, Java, Rust, gRPC, Redis, PostgreSQL, AWS, or system design
 - 🎓 &nbsp; MS in Information Systems — Northeastern University
 - 😄 &nbsp; Fun fact: I engineered memory-safe concurrent Rust pipelines that eliminated data races — because crashes are not a feature
 
@@ -40,9 +40,22 @@ Software Engineer with 3+ years of experience building scalable backend services
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+**AI & LLM Tooling**
+
+![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-%23FF6F61.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-%23FF4B4B.svg?style=for-the-badge&logo=python&logoColor=white)
+
 **Frameworks & APIs**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -54,7 +67,10 @@ Software Engineer with 3+ years of experience building scalable backend services
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/Cosmos_DB-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-%2300A1EA.svg?style=for-the-badge&logo=milvus&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-%23FFB000.svg?style=for-the-badge&logo=databricks&logoColor=black)
 
 **Cloud & DevOps**
 
@@ -79,6 +95,7 @@ Software Engineer with 3+ years of experience building scalable backend services
 
 | Project | Description | Stack |
 |---|---|---|
+| 🤖 **[AI Outreach Agents](https://github.com/Kotha-Nikhil/ai-outreach-agents)** | Multi-agent B2B outreach platform: email + LinkedIn drafting, intent scoring, lead discovery, and meetings intelligence. Chroma RAG, Gemini via langchain-google-genai, Calendly and Gmail integrations, same-origin proxy to a FastAPI agents service | Next.js 16 · React 19/TS · Tailwind · FastAPI · Python 3.13 · PostgreSQL · Prisma · Chroma · Gemini |
 | 🏥 **[ATLAS](https://github.com/Kotha-Nikhil/ATLAS)** | Real-time Emergency Department command center with HL7 v2 ADT ingest, FHIR R4 API, SMART on FHIR sandbox, AI-assisted triage, HIPAA-conscious RBAC, and live ED analytics dashboard | Rust/Axum · React 18/TS · PostgreSQL · Python · Docker · Fly.io |
 | ⚙️ **[TaskQueueX](https://github.com/Kotha-Nikhil/taskqueueX)** | Distributed async job platform generating 50K-row CSV reports in under 5s, 99% reliability with exponential backoff DLQ, optimistic locking, and Micrometer observability | Java 21 · Spring Boot · PostgreSQL · Redis · Docker |
 | 🔗 **[Shortify](https://github.com/Kotha-Nikhil/shortify)** | Scalable URL shortener with O(1) Redis-cached redirects, click analytics, sliding-window rate limiting, and Flyway schema versioning | Java · Spring Boot · Redis · PostgreSQL · Docker |
