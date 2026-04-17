@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/nikhil-kotha-201aa115b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:kothanikhil44@gmail.com">
+  <a href="mailto:kothanikhil66@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23FF6B6B.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Kotha-Nikhil">
