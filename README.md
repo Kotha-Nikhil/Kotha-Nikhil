@@ -16,10 +16,10 @@
 
 ## 🚀 About Me
 
-Software/AI Engineer with 4+ years building production AI agents and scalable backends.
+Software/AI Engineer building production AI agents and scalable backends.
 
 - 🔭 &nbsp; Working on: **[AI Outreach Agents](https://github.com/Kotha-Nikhil/ai-outreach-agents)** — multi-agent B2B outreach platform (Next.js 16 + FastAPI + Gemini + LangChain RAG) · **[ATLAS](https://github.com/Kotha-Nikhil/ATLAS)** — real-time ED command center with FHIR R4, HL7 v2, SMART on FHIR & AI triage · **[TaskQueueX](https://github.com/Kotha-Nikhil/taskqueueX)** — distributed async job platform · **[Shortify](https://github.com/Kotha-Nikhil/shortify)** — scalable URL shortener
-- 💼 &nbsp; Currently: AI Engineer / Software Engineer at **Genpact** (Remote, Boston MA) — shipping AI agents and GTM pipelines across Azure + AWS: LangChain/LangGraph RAG agents, real-time voice/email bots, and 250K+ visitor-event/day behavioral pipelines
+- 💼 &nbsp; AI Engineer — shipping AI agents and GTM pipelines across Azure + AWS: LangChain/LangGraph RAG agents, real-time voice/email bots, and 250K+ visitor-event/day behavioral pipelines
 - ⚡ &nbsp; Delivered: 25% sales-conversion lift via LangChain + LangGraph agents · 35% engagement gain on voice/email/text interfaces · 99.9% uptime on 10K+ email batches · 45% latency drop & 98% CI/CD success on Rust/gRPC services
 - 🤝 &nbsp; Collaborate on: Multi-agent AI systems, RAG pipelines, scalable backends, distributed architecture, Java/Spring Boot, or Rust services
 - 💬 &nbsp; Ask me about: LangChain, LangGraph, RAG, LLM fine-tuning (LoRA, DAPT), Azure OpenAI, Bedrock, vLLM, Milvus, Java, Rust, gRPC, Redis, PostgreSQL, AWS, or system design
